@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 </br>
 <div align="center"> 
    <a href="https://github.com/OraneD" >
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OraneD&langs_count=3&theme=CodeSTACKr" alt="Orane's GitHub languages" height="200"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OraneD&langs_count=3&theme=codeSTACKr" alt="Orane's GitHub languages" height="200"/>
    </a>
    
    <a href="https://github.com/OraneD">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=OraneD&theme=blue-green&show_icons=CodeSTACKr" alt="Orane's GitHub page" height="200"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=OraneD&theme=blue-green&show_icons=codeSTACKr" alt="Orane's GitHub page" height="200"/>
    </a>
 </div>
