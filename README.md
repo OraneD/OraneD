@@ -22,6 +22,6 @@ Here are some ideas to get you started:
    </a>
    
    <a href="https://github.com/OraneD">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=OraneD&theme=blue-green&show_icons=codeSTACKr" alt="Orane's GitHub page" height="200"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=OraneD&theme=codeSTACKr&show_icons=true" alt="Orane's GitHub page" height="200"/>
    </a>
 </div>
